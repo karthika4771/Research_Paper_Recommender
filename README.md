@@ -66,5 +66,9 @@ It demonstrates my ability to:
 
 1. **Install required packages**:
 
+streamlit run app.py
+
+
+
    ```bash
    pip install streamlit pandas scikit-learn
